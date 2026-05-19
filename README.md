@@ -64,7 +64,10 @@ drafting can be wrong without causing harm. The send step cannot, so it stays wi
 ## End-to-end example 
 Since this tool runs locally and is not deployed on the web, the following is a walkthrough of a real run to 
 demonstrate that the workflow works end to end. 
-### Evaluation 
+
+<img width="861" height="416" alt="1" src="https://github.com/user-attachments/assets/5e414bfc-437b-466f-860e-a3ac0a812a7c" />
+
+## Evaluation 
 I evaluated the system across three dimensions- 
 The first was contact accuracy. For each role I manually verified whether the person surfaced was 
 genuinely connected to that position, rating results as high, medium, or low confidence. Results were 
