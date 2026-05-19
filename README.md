@@ -106,6 +106,8 @@ The system processes the latest non-rejected applications and skips workflows wh
 
 # Example Output
 
+<img width="861" height="416" alt="1" src="https://github.com/user-attachments/assets/de0b0040-3882-4283-93c5-98df75fbefda" />
+
 ```text
 Company: Databricks
 Role: Product Operations Manager
